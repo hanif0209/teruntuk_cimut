@@ -1,0 +1,24 @@
+localhost:9000/getorder/fastpay
+
+Request :
+
+{
+    "Request": "Status A",
+    "TransId": "123456",
+    "Merchant_id": "26481264",
+    "Merchant": "7362532",
+    "Signature": "uiuwaeyr7q257325iyqy82358989"
+}
+
+Response :
+
+{
+    "Response": "Status A",
+    "TransId": "123456",
+    "Merchant_id": "26481264",
+    "Merchant": "7362532",
+    "Code": "12345",
+    "Name": "Mutia",
+    "Response_Code":"hsagdgawg"
+    "Response_Desc":"Response_Desc"
+}
